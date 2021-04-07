@@ -1,14 +1,14 @@
 ---
-title: Pages
+title: Posts
 draft: false
 # Section you want to display
 section: posts
 # Pages count
-count: 5
+count: 3
 # Options: card, plain and masonry.
 style: plain
 
-weight: 2
+weight: 3
 widget:
   handler: pages
 
@@ -23,7 +23,7 @@ widget:
 
   background:
     # Options: primary, secondary, tertiary or any valid color value. Default is primary.
-    color:
+    color: secondary
     image:
     # Options: auto, cover and contain. Default is auto.
     size:

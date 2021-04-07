@@ -3,7 +3,7 @@ title: J. Dawn Duan
 draft: false
 role: 3rd Year Graduate Student (Ph. D. Candidate)
 avatar: jdawnduan_avatar.jpg
-bio: In a chemistry group
+bio: A chemist that doesn't know how to program is not a good cook. 
 organization: 
   name: Northwestern University - Hupp Group
   url: https://sites.northwestern.edu/huppgroup/group/
@@ -14,9 +14,9 @@ social:
   - icon: twitter
     iconPack: fab
     url: https://twitter.com/Dawn_JDuan
-  - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: ai
-    link: https://scholar.google.com/citations?
+  - icon: user-graduate
+    icon_pack: fa
+    link: https://scholar.google.com/citations?user=8LcBMLQAAAAJ&hl=en
   - icon: github
     icon_pack: fab
     link: https://github.com/jdawnduan
@@ -49,11 +49,10 @@ widget:
     attachment: 
 ---
 
-## Self Introduction
+## A little bit about myself
 
 My research interests include electrochemical properties of materials, measurement techniques including electron microscopy and crystallogrphy. Beyond that, I am trying to extend my knowlege on Python.
 
-Aliquam pretium diam eget leo feugiat finibus. Donec malesuada commodo ipsum. Aenean a massa in lacus venenatis vestibulum. Duis vel sem quis elit iaculis consectetur et quis dolor. Morbi eu ipsum hendrerit, malesuada ante sed, dapibus est. Suspendisse feugiat nulla ut gravida convallis. Phasellus id massa posuere, rhoncus justo ut, porttitor dolor. Nulla ultrices malesuada egestas. Nunc fermentum tincidunt sem ac vulputate. Donec mollis sollicitudin justo eget varius. Donec ornare velit et felis blandit, id molestie sapien lobortis. Morbi eget tristique justo. Mauris posuere, nibh eu laoreet ultricies, ligula erat iaculis sapien, vel dapibus lacus libero ut diam. Etiam viverra ante felis, et scelerisque nunc pellentesque vitae. Praesent feugiat dictum molestie.
 
 ## Details  
 

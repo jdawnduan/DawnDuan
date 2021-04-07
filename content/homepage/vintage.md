@@ -1,11 +1,11 @@
 ---
 title: Vintage
 draft: false
-slogan: We are all in the gutter, but some of us are looking at the stars.
-imgLeft: images/hero-left.jpg
-imgRight: images/hero-right.jpg
+slogan: When you find your purpose, the whole universe is going to help you get there. 
+#imgLeft: images/hero-left.jpg
+#imgRight: images/hero-right.jpg
 
-weight: 4
+weight: 
 widget:
   handler: vintage
 

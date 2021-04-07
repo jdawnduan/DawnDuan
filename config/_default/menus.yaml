@@ -1,12 +1,16 @@
 main:
+#  - name: Home
+#    url: 
+#    weight: 1
   - name: About
     url: '#about'
-    weight: 1
+    weight: 2
   - name: Posts
     url: /posts/
-    weight: 2
+    weight: 3
   - name: Publications
     url: /pubs/
-    weight: 3
+    weight: 4
   - name: Contact
     url: /contacts/
+    weight: 6
