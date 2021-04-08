@@ -3,14 +3,15 @@ title: J. Dawn Duan
 draft: false
 role: 3rd Year Graduate Student (Ph. D. Candidate)
 avatar: jdawnduan_avatar.jpg
-bio: A chemist that doesn't know how to program is not a good cook.
+bio: A chemist that doesn't know how to program is not a good cook. My research interests include electrochemical properties of materials, measurement techniques including electron microscopy and crystallography. Beyond that, I am trying to extend my knowledge on Python.
+
 organization:
   name: Northwestern University - Hupp Group
   url: https://sites.northwestern.edu/huppgroup/group/
 social:
-  - icon: envelope
-    iconPack: fas
-    url: j.dawnduan@gmail.com
+#  - icon: envelope
+#    iconPack: fas
+#    url: j.dawnduan@gmail.com
   - icon: twitter
     iconPack: fab
     url: https://twitter.com/Dawn_JDuan
@@ -51,12 +52,13 @@ widget:
     attachment:
 ---
 
-## A little bit about myself
+## Contact Information - <a href = "Jiaxin_Duan_NU_HuppGroup_CV.pdf">**CV**</a> (updated 20210304)
+**E-mail**: j.dawnduan@gmail.com
 
-My research interests include electrochemical properties of materials, measurement techniques including electron microscopy and crystallogrphy. Beyond that, I am trying to extend my knowlege on Python.
+**Address**: 2145 Sheridan Rd., Evanston, IL, 60208
 
 
-### Current Services:  
+## Current Services:  
 - Web-manager and Secretary: <a href = "http://nuplu.weebly.com/">**Phi Lambda Upsilon** (Northwestern's Chemistry Honor Society)</a>
 - Web-manager: <a href = "https://sites.northwestern.edu/netg0/">**NETG** (Northwestern Energy and Technology Group)</a>
 - Volunteer: <a href = "https://www.booksbreakfast.org/">**Books & Breakfast** (Tutor for middle schoolers)</a>

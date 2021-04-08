@@ -1,10 +1,10 @@
 ---
-title: Posts
-draft: false
+title: Publications
+draft: true
 # Section you want to display
-section: posts
+section: pubs
 # Pages count
-count: 3
+count: 1
 # Options: card, plain and masonry.
 style: plain
 
@@ -30,5 +30,5 @@ widget:
     # Options: center, top, right, bottom, left.
     position:
     # Options: fixed, local, scroll.
-    attachment: 
+    attachment:
 ---

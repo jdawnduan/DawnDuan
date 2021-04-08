@@ -1,11 +1,11 @@
 ---
 title: Vintage
 draft: false
-slogan: When you find your purpose, the whole universe is going to help you get there. 
+slogan: “And, when you want something, all the universe conspires in helping you to achieve it.”  ― Paulo Coelho, The Alchemist
 #imgLeft: images/hero-left.jpg
 #imgRight: images/hero-right.jpg
 
-weight: 
+weight:
 widget:
   handler: vintage
 
@@ -17,7 +17,7 @@ widget:
     position:
     # Options: sm, md, lg and xl. Default is md.
     scale:
-    
+
   background:
     # Options: primary, secondary, tertiary or any valid color value. Default is primary.
     color: secondary
@@ -27,5 +27,5 @@ widget:
     # Options: center, top, right, bottom, left.
     position:
     # Options: fixed, local, scroll.
-    attachment: 
+    attachment:
 ---

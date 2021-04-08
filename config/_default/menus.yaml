@@ -1,19 +1,32 @@
 main:
-  - name: Landing
-    url: /landing
+  - name: Home
+    url: '#about'
     weight: 1
-  - name: About
-    url: /aboutme
-    weight: 22
-  - name: Posts
-    url: /posts/
-    weight: 33
+#  - name: About
+#    url: /aboutme
+#    weight: 2
+
   - name: Publications
     url: /pubs/
-    weight: 44
-  - name: Teachings
+    weight: 11
+
+  - name: Teaching
     url: /teachings/
-    weight: 55
-  - name: Contact
-    url: /contacts/
-    weight: 66
+    weight: 22
+  - name: Involvements
+    url: /posts/
+    weight: 33
+  - name: Projects
+    url: /projects/
+    weight: 44
+#  - name: Projects
+#    url: /teachings/
+#    weight: 55
+
+#  - name: Posts
+#    url: /posts/
+#    weight: 66
+
+#  - name: Contact
+#    url: /contacts/
+#    weight: 66
