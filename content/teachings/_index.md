@@ -3,19 +3,37 @@ title: "Teaching Experiences"
 date: 2021-04-08T09:45:31-05:00
 draft: false
 ---
+<html>
+<head>
+<style>
+table, th, td {
+  border: 0px solid black;
+  border-collapse: collapse;
+}
+</style>
+</head>
+<body>
+
+<table>
+  <tr>
+    <th>Month</th>
+    <th>Savings</th>
+  </tr>
+  <tr>
+    <td>January</td>
+    <td>$100</td>
+  </tr>
+  <tr>
+    <td>February</td>
+    <td>$80</td>
+  </tr>
+</table>
+
+</body>
+</html>
+
+
 ### Northwestern University (Graduate School)
-<!-- <TABLE style="border:none;">
-<TR>
-<TD>Cell contents</TD>
-<TD>Cell contents</TD>
-</TR>
-<TR>
-<TD>Cell contents</TD>
-<TD>Cell contents</TD>
-</TR>
-</TABLE> -->
-
-
 Quarters|Course Code|Course Description
 :--|:--|:--
 2021 Spring|CHEM xxx|Organic Chemistry
@@ -27,18 +45,12 @@ Quarters|Course Code|Course Description
 2019 Winter|CHEM 350|Advanced Laboratory 2
 2018 Fall|CHEM 181|Advanced General Chemistry Laboratory 1
 
-### University of Minnesota – Twin Cities (Undergraduate School)
-<!-- <TABLE style="border:none;">
-<TR>
-<TD>Cell contents</TD>
-<TD>Cell contents</TD>
-</TR>
-<TR>
-<TD>Cell contents</TD>
-<TD>Cell contents</TD>
-</TR>
-</TABLE> -->
 
+
+
+
+
+### University of Minnesota – Twin Cities (Undergraduate School)
 
 Semesters|Course Code|Course Description
 :--|:--|:--
