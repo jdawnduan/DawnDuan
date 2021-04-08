@@ -2,7 +2,7 @@
 title: Experiences
 draft: false
 experiences:
-  - title: Ph. D. Candidate 
+  - title: Ph. D. Candidate
     organization:
       name: Northwestern University (Hupp Group)
       url: https://sites.northwestern.edu/huppgroup/
@@ -13,11 +13,11 @@ experiences:
 
       - Collected and Analyzed Data
 
-      - Struggled and Servived 
+      - Struggled and Servived
 
 #The bullet points above much have an empty space between them
-      
-  - title: Lab Assistant 
+
+  - title: Lab Assistant
     organization:
       name: Northwestern University (NUFAB)
       url: https://www.nufab.northwestern.edu/
@@ -26,7 +26,7 @@ experiences:
     writeup: >
      Organized the lab
 
-  - title: Undergraduate Researcher 
+  - title: Undergraduate Researcher
     organization:
       name: University of Minnesota – Twin Cities (Stein Group)
       url: http://stein.chem.umn.edu/
@@ -38,11 +38,11 @@ experiences:
   - title: Teaching assistant  
     organization:
       name: University of Minnesota – Twin Cities & Northwestern University
-      url: 
+      url:
     dates: '2015 - Present'
     location: USA
     writeup: >
-     Teached various labs and more than 200 students (up to date). Check here for details about teaching experiences.
+     Teached various labs and more than 200 students (up to date). Check Teaching page for details about teaching experiences.
 
 weight: 2
 widget:
@@ -56,7 +56,7 @@ widget:
     position: left
     # Options: sm, md, lg and xl. Default is md.
     scale:
-  
+
   background:
     # Options: primary, secondary, tertiary or any valid color value. Default is primary.
     color:
@@ -66,5 +66,5 @@ widget:
     # Options: center, top, right, bottom, left.
     position:
     # Options: fixed, local, scroll.
-    attachment: 
+    attachment:
 ---

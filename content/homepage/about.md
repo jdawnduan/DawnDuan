@@ -3,14 +3,14 @@ title: J. Dawn Duan
 draft: false
 role: 3rd Year Graduate Student (Ph. D. Candidate)
 avatar: jdawnduan_avatar.jpg
-bio: A chemist that doesn't know how to program is not a good cook. 
-organization: 
+bio: A chemist that doesn't know how to program is not a good cook.
+organization:
   name: Northwestern University - Hupp Group
   url: https://sites.northwestern.edu/huppgroup/group/
 social:
-#  - icon: envelope
-#    iconPack: fas
-#    url: j.dawnduan@gmail.com
+  - icon: envelope
+    iconPack: fas
+    url: j.dawnduan@gmail.com
   - icon: twitter
     iconPack: fab
     url: https://twitter.com/Dawn_JDuan
@@ -23,7 +23,9 @@ social:
   - icon: linkedin
     icon_pack: fab
     url: https://www.linkedin.com/in/jiaxin-dawn-duan-630958a4/
-
+  - icon: fingerprint
+    icon_pack: fas fa-fingerprint
+    url: https://orcid.org/0000-0003-3252-7870
 weight: 1
 widget:
   handler: about
@@ -36,7 +38,7 @@ widget:
     position:
     # Options: sm, md, lg and xl. Default is md.
     scale:
-  
+
   background:
     # Options: primary, secondary, tertiary or any valid color value. Default is primary.
     color: secondary
@@ -46,7 +48,7 @@ widget:
     # Options: center, top, right, bottom, left.
     position:
     # Options: fixed, local, scroll.
-    attachment: 
+    attachment:
 ---
 
 ## A little bit about myself
@@ -54,15 +56,7 @@ widget:
 My research interests include electrochemical properties of materials, measurement techniques including electron microscopy and crystallogrphy. Beyond that, I am trying to extend my knowlege on Python.
 
 
-## Details  
-
-Nunc pellentesque vitae:
-- Morbi accumsan nibh efficitur diam molestie, non dignissim diam facilisis.
-- Donec dignissim leo in mollis faucibus.
-- Donec blandit lacus a pellentesque fermentum.
-
-Donec mollis sollicitudin:
-- Nunc dictum purus ornare purus consectetur, eu pellentesque massa ullamcorper.
-- Aliquam eu leo vitae justo aliquam tincidunt.
-- Fusce non massa id augue interdum feugiat sed et nulla.
-- Vivamus molestie augue in tristique laoreet.
+### Current Services:  
+- Web-manager and Secretary: <a href = "http://nuplu.weebly.com/">**Phi Lambda Upsilon** (Northwestern's Chemistry Honor Society)</a>
+- Web-manager: <a href = "https://sites.northwestern.edu/netg0/">**NETG** (Northwestern Energy and Technology Group)</a>
+- Volunteer: <a href = "https://www.booksbreakfast.org/">**Books & Breakfast** (Tutor for middle schoolers)</a>

@@ -3,7 +3,7 @@ main:
     url: /landing
     weight: 1
   - name: About
-    url: '#about'
+    url: /aboutme
     weight: 22
   - name: Posts
     url: /posts/
@@ -11,6 +11,9 @@ main:
   - name: Publications
     url: /pubs/
     weight: 44
+  - name: Teachings
+    url: /teachings/
+    weight: 55
   - name: Contact
     url: /contacts/
     weight: 66
