@@ -29,8 +29,7 @@ table, th, td {
   </tr>
 </table>
 
-</body>
-</html>
+
 
 
 ### Northwestern University (Graduate School)
@@ -61,3 +60,7 @@ Semesters|Course Code|Course Description
 2016 Fall|CHEM 1065|General Chemistry Laboratory
 2016 Spring|CHEM 1062|General Chemistry Discussion Group
 2016 Fall|CHEM 1061|General Chemistry Discussion Group
+
+
+</body>
+</html>
