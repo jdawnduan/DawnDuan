@@ -5,8 +5,8 @@ title:
 
 ## MANUSCRIPT IN PREPERATION
 1. <u>**Duan, J.**</u>; Goswami, S.; Hupp, J. T. 2021. Manuscript in preparation for J. Phys. Chem. C
-2. xxx,xxx
-3. xxx,xxx
+2. Liu, Q.; Chen, Z.; <u>**Duan, J.**</u>; Bi, W.; Lu, Z.; Schweitzer, N.; Alayoglu, S.; Goswami, S.; Chapman, K.; Hupp, J. *Submitted*
+3. ~~A review that passed away in its draft stage~~
 
 ## PUBLICATIONS DURING GRADUATE SCHOOL
 1. Lu, Z.; Wang, R.; Liao, Y.; Farha, O. K.; Bi, W.; Sheridan, T. R.; Zhang, K.; <u>**Duan, J.**</u>; Liu, J.; Hupp, J. T.
