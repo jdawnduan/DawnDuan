@@ -1,5 +1,6 @@
 ---
 title: Automation - Python & Pandas
+date: 2021-03-13T09:34:05-05:00
 ---
 In developing an automated workflow on processing and plot data for subgroup meetings. I have a couple of them pushed to my **_ugly_** GitHub page. If you are curious, you can take a look at them <a href = 'https://github.com/jdawnduan/Data_plot_collaborate'>
 **HERE**</a>. I have a couple sample data there, feel free to roast my codes or contribute, if you'd like to spend some time on it. ❤

@@ -1,5 +1,6 @@
 ---
 title: Personal Website - Hugo
+date: 2021-04-02T09:34:05-05:00
 ---
 
 It is what you are seeing right now. ฅʕ•̫͡•ʔฅ
