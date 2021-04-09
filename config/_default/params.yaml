@@ -17,7 +17,7 @@ colorScheme:
 siteType: Person
 icon: images/icon.png
 publisherName: J. Dawn Duan
-publisherLogo:
+publisherLogo: images/icon.png
 
 highlight:
   handler: highlightjs

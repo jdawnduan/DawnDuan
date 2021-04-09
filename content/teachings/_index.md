@@ -21,8 +21,8 @@ table, th, td {
 ### Northwestern University (Graduate School)
 Quarters|Course Code|Course Description
 :--|:--|:--
-2021 Spring|CHEM xxx|Organic Chemistry
-2021 Winter|CHEM 435/445|Advanced Physical and Analytical Chemistry *(Energy related topics)*
+2021 Spring|CHEM 210/230|Organic Chemistry Laboratory
+2021 Winter|CHEM 435/445|Advanced Physical and Analytical Chemistry (*Energy related topics*)
 2020 Fall|CHEM 151|Accelerated General Chemistry
 2020 Winter|CHEM 350|Advanced Laboratory 2
 2019 Summer|CHEM 142|General Inorganic Chemistry Laboratory
@@ -41,7 +41,7 @@ Semesters|Course Code|Course Description
 :--|:--|:--
 2018 Spring|CHEM 1065|General Chemistry Laboratory
 2017 Fall|CHEM 1075H |General Chemistry Laboratory for students on honor track
-2017 Summer|CHEM 4711W|Advanced Inorganic Chemistry Laboratory
+2017 Summer|CHEM 4711W|Advanced Inorganic Chemistry Laboratory (*Electrochemical and magnetic properties*)
 2017 Spring|CHEM 1066|General Chemistry Laboratory
 2016 Fall|CHEM 1065|General Chemistry Laboratory
 2016 Spring|CHEM 1062|General Chemistry Discussion Group

@@ -1,27 +1,28 @@
 main:
-  - name: Home
-    url: '#about'
-    weight: 1
+#  - name: Home
+#    url: '#about'
+#    weight: 1
 #  - name: About
 #    url: /aboutme
 #    weight: 2
 
-  - name: Publications
+  - name: Achievements
     url: /pubs/
     weight: 11
 
   - name: Teaching
     url: /teachings/
     weight: 22
-  - name: Involvements
-    url: /posts/
+  - name: Outreach
+    url: /outreaches/
     weight: 33
+  - name: Credits
+    url: /creditlists/
+    weight: 44
   - name: Projects
     url: /projects/
-    weight: 44
-#  - name: Projects
-#    url: /teachings/
-#    weight: 55
+    weight: 55
+
 
 #  - name: Posts
 #    url: /posts/

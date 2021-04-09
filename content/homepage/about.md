@@ -52,7 +52,7 @@ widget:
     attachment:
 ---
 
-## Contact Information - <a href = "Jiaxin_Duan_NU_HuppGroup_CV.pdf">**CV**</a> (updated 20210304)
+## Contact Information - <a href = "Jiaxin_Duan_NU_HuppGroup_CV.pdf" target="_blank">**CV**</a> (updated 20210304)
 **E-mail**: j.dawnduan@gmail.com
 
 **Address**: 2145 Sheridan Rd., Evanston, IL, 60208
