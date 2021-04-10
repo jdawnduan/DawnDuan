@@ -2,28 +2,18 @@
 title:
 ---
 
-<html>
-<head>
-<style>
-table, th, td {
-  border: 0px solid black;
-  border-collapse: collapse;
-  text-align: bottom;
-  vertical-align: baseline;
-}
-</style>
-</head>
-<body>
-
 ## ~~Side~~ Projects
 
 A bunch of projects I plan to work or have worked through whenever I don't want to do research...~~(In addition to binge watching YouTube)~~
 
 ## Certificates I collected along the way
-&nbsp;|&nbsp;|&nbsp;
-:-:|:-:|:-:
-<img src="/images/pandas_python_UofMichigan.png"><figcaption>Introduction to Data Science in Python</figcaption>|<img src="/images/dawn_duan_apis_web_scraping_python_skill_track.png"><figcaption>APIs and Web Scrapting</figcaption>|<img src="/images/dawn_duan_text_processing.png"><figcaption>Text Processing</figcaption>
-<img src="/images/dawn_duan_command_line_elements.png"><figcaption>Command Line Elements</figcaption>|<img src="/images/dawn_duan_command_line_intermediate.png"><figcaption>Command Line Intermediate</figcaption>|<img src="/images/dawn_duan_git_and_vcs.png"><figcaption>Git and Version Control</figcaption>
+- <a href = 'https://coursera.org/share/345c3743a1b66ecc3bd16db2614d57d8'>Introduction to Data Science in Python</a>
+- <a href = 'https://app.dataquest.io/view_cert/R7GHDHB4Y5JAOQ6WLKDP/'>APIs and Web Scraping with Python Path</a>
+- <a href = 'https://app.dataquest.io/view_cert/R8AOOU4FLWAVQFGM5A0C/'>APIs and Web Scraping in Python</a>
+- <a href = 'https://app.dataquest.io/view_cert/MEAV85MUUFNSAKMQZIQ8/'>Text Processing</a>
+- <a href = 'https://app.dataquest.io/view_cert/897HCZU01P9H6U56NCPV/'>Command Line Elements</a>
+- <a href = 'https://app.dataquest.io/view_cert/SCUK8XGHTYYN8WQEOI22/'>Command Line Intermediate</a>
+- <a href = "https://app.dataquest.io/view_cert/23TEPXXJN7TDR0CYN4YD/">Git and Version Control</a>
 
 
 ## If you want to know more about each project ↓
