@@ -7,7 +7,7 @@ main:
 #    weight: 2
 
   - name: Achievements
-    url: /pubs/
+    url: /achievements/
     weight: 11
 
   - name: Teaching

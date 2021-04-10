@@ -6,3 +6,8 @@ Hi here, welcome to my personal website! Taken my advisor's suggestion, I intend
 In the meantime, I want to slowly build up my CV or protfolio to integrate the research and ~~mostly~~ non-research projects I have been working on. It will be a good way to show my scattered skills. Here you go, this site is born. I will update it from time to time. If I encountered you through my academic path, you might see your name on here **someday** (may be very far away from now though...)
 
 Enjoy!
+
+Pending Updates:
+1. Add professional certificates
+2. Slowly add posts in the "Credits" page
+3. Have a dual language version of contents
