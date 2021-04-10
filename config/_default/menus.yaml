@@ -13,8 +13,8 @@ main:
   - name: Teaching
     url: /teachings/
     weight: 22
-  - name: Outreach
-    url: /outreaches/
+  - name: Volunteers
+    url: /volunteers/
     weight: 33
   - name: Credits
     url: /creditlists/
