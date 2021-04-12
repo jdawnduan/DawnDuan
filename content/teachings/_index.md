@@ -48,8 +48,7 @@ Semesters|Course Code|Course Description
 2016 Fall|CHEM 1061|General Chemistry Discussion Group
 
 
-</body>
-</html>
+
 
 
 ## CTEC Feedback Selections
@@ -67,3 +66,5 @@ Semesters|Course Code|Course Description
 
 - Dawn is very laid back and reserved, good at her job and very knowledgeable about what was to be done.
 
+</body>
+</html>

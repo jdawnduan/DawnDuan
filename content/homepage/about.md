@@ -9,9 +9,9 @@ organization:
   name: Northwestern University - Hupp Group
   url: https://sites.northwestern.edu/huppgroup/group/
 social:
-#  - icon: envelope
-#    iconPack: fas
-#    url: j.dawnduan@gmail.com
+  - icon: envelope
+    iconPack: fas
+    url: mailto:j.dawnduan@gmail.com
   - icon: twitter
     iconPack: fab
     url: https://twitter.com/Dawn_JDuan
