@@ -50,3 +50,20 @@ Semesters|Course Code|Course Description
 
 </body>
 </html>
+
+
+## CTEC Feedback Selections
+- Dawn was a great TA and thoroughly explained each experiment and characterization technique effectively which helped us have a very firm grasp on our data and its interpretation.
+
+- Dawn was very helpful and nice. She was well prepared and responsive via email.
+
+- She was incredibly helpful and responsive and was just an amazing TA.
+
+- Dawn was an amazing TA. The class was difficult, but Dawn was always there to help.
+
+- Dawn made the chemistry lab course much more enjoyable and clear than I would have expected. If possible, I would have Dawn for every lab section I am in because she made it really clear on what is important in lab and matched the way I learn from instructors.
+
+- Dawn is the sweetest girl in the world, the fact that she has an amazing gift for chemistry on top of that is a wonder. She is always kind, and patient with everyone no matter how obvious some questions may be. She is genuine and understanding, yet confident in her abilities. She gets my highest praise, and she deserves a raise regardless of her position. Give her a prize, a gold star, and ice cream cone. Whatever it is, know that Dawn is the real super TA.
+
+- Dawn is very laid back and reserved, good at her job and very knowledgeable about what was to be done.
+
