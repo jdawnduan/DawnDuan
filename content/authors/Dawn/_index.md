@@ -1,20 +1,30 @@
 ---
-title: Hugo Authors
-role: Example Role
-bio: Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos.
+title: J. Dawn Duan
+role: 3rd Year Graduate Student (Ph. D. Candidate)
+avatar: jdawnduan_avatar.jpg
+bio: 3rd Year Graduate Student (Ph. D. Candidate)
 organization:
-  name: Northwestern University
-  url: https://example.com/
+  name: Northwestern University - Hupp Group
+  url: https://sites.northwestern.edu/huppgroup/group/
 social:
   - icon: envelope
     iconPack: fas
-    url: mailto:example@example.com
+    url: mailto:j.dawnduan@gmail.com
   - icon: twitter
     iconPack: fab
-    url: https://example.com/
+    url: https://twitter.com/Dawn_JDuan
+  - icon: user-graduate
+    icon_pack: fa
+    url: https://scholar.google.com/citations?user=8LcBMLQAAAAJ&hl=en
   - icon: github
-    iconPack: fab
-    url: https://example.com/
+    icon_pack: fab
+    url: https://github.com/jdawnduan
+  - icon: linkedin
+    icon_pack: fab
+    url: https://www.linkedin.com/in/jiaxin-dawn-duan-630958a4/
+  - icon: fingerprint
+    icon_pack: fas fa-fingerprint
+    url: https://orcid.org/0000-0003-3252-7870
 ---
 
 ## Vestibulum vel arcu
@@ -33,8 +43,8 @@ Donec porta:
 - Sed at nulla consectetur, sodales nisl sed, luctus velit.
 - Morbi ornare purus at porttitor tristique.
 
-Gravida urna in: 
+Gravida urna in:
 - Maecenas blandit diam at massa hendrerit maximus.
 - Sed lacinia purus ac cursus tincidunt.
 - Maecenas posuere ante sed elit tempus porttitor.
-- Sed vel justo quis diam convallis hendrerit ac non mi. 
+- Sed vel justo quis diam convallis hendrerit ac non mi.

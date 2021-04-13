@@ -39,7 +39,6 @@ taxonomies:
   tag: tags
   series: series
   author: authors
-  stage: stages
 
 build:
   useResourceCacheWhen: always
