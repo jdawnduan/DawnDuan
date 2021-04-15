@@ -49,15 +49,17 @@ Buru, C. T; Li, Z.; Penn, R. L.; Farha, O. K.; Hupp, J. T.; Stein, A.; Lu, C. C.
 
 
 # Professional Developments
-- [Admitted, 60 applicants selected across graduate students at North American] 23rd National School on Neutron and X-Ray Scattering (NXS2021)
+- [Admitted, 60 applicants selected across graduate students at North American] 23rd National School on Neutron and X-Ray Scattering (<a href = 'https://www.anl.gov/education/national-school-on-neutron-and-xray-scattering' target = '_blank'>NXS2021</a>)
 
 - 2021 - Rigaku School for Advanced Topics in Practical Crystallography (pass the test with honors) - provided by <a href = "https://www.rigaku.com/webinars/crystallography/advanced-topics" target="_blank">Rigaku School</a>
 - 2019 - Certificate of Completion: Advanced Impedance Spectroscopy - instructed by Mark Orazem, provided by <a href="https://www.electrochem.org/advanced-impedance-spectroscopy">The Electrochemical Society</a> at the 236th ECS Meeting
 
-[Certificates to be uploaded]
+<img src="/images/Rigaku_Advanced_Crystallography_School_Exam-Jiaxin_Duan.jpg" alt="Rigaku School Certificate" style="width:400px;height:320px;">
 
 # Professional Involvements
 - 2020 - Bright Future for In Situ and Operando Structural Science Workshops - provided by <a href="https://www.aps.anl.gov/" target="_blank">The Advanced Photon Source - Argonne National Lab</a>
 - 2019 - Catalysis Club of Chicago Symposium
+- 2019 - Presider - the Great Lake Regional meeting
+  - Facilitating a session of presentations by introducing each speaker, tracking time, and promote Q&A discussions
 - 2017 - Inorganometallic Catalyst Design Center (ICDC) All-Hands Meeting
 - 2017 -  IPRIME Annual Meeting

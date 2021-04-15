@@ -19,8 +19,8 @@ main:
   - name: Credits
     url: /creditlists/
     weight: 44
-  - name: Projects
-    url: /projects/
+  - name: Hobbies
+    url: /hobbies/
     weight: 55
 
 
