@@ -2,7 +2,7 @@
 title:
 ---
 # Outreach
-
+- Science In The Classroom (SITC) IMSERC Tour Video - 2021
 - District 65 Books & Breakfast - 2020 - 2021
   - Weekly tutor session with middle school kids
 - Electrochemistry Demo Video - 2021
@@ -24,7 +24,7 @@ title:
 - Technology Study - Touch the texture
 - Physical strength study - daily routine and exercise records
 
-# Snipshots
+# Recordings
 <div id="fb-root"></div>
 <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v10.0" nonce="p83wjqys"></script>
 

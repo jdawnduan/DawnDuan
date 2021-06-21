@@ -9,8 +9,11 @@ title:
 ---
 # Publications
 
-### PUBLICATIONS DURING GRADUATE SCHOOL
+### MANUSCRIPTS IN PREPERATION
 1. Liu, Q.; Chen, Z.; <u>**Duan, J.**</u>; Bi, W.; Lu, Z.; Schweitzer, N.; Alayoglu, S.; Goswami, S.; Chapman, K.; Hupp, J. *Submitted*
+
+
+### PUBLISHED
 1. Lu, Z.; Wang, R.; Liao, Y.; Farha, O. K.; Bi, W.; Sheridan, T. R.; Zhang, K.; <u>**Duan, J.**</u>; Liu, J.; Hupp, J. T. <a href = 'https://pubs.rsc.org/en/content/articlelanding/2021/cc/d0cc07974j#!divAbstract' target='_blank'>Chem. Commun., 2021, 57, 3571-3574.</a>
 2. Ray, D.; Goswami, S.; <u>**Duan, J.**</u>; Hupp, J. T.; Cramer, C.; Gagliardi, L. <a href = 'https://pubs.acs.org/doi/10.1021/acs.chemmater.0c03855' target='_blank'>Chem. Mater., 2021, 33, 1182–1189.</a>
 3. Nagatomi, H.; Gallington, L.; Goswami, S.; <u>**Duan, J.**</u>; Chapman, K.; Yanai, N.; Kimizuka, N.; Farha, O.
@@ -21,9 +24,6 @@ K.; Hupp, J. T. <a href = 'https://pubs.acs.org/doi/10.1021/acsomega.0c04823' ta
 2020, 53, 1187–1195.</a>
 6. Goswami, S.; Hod, I.; <u>**Duan, J.**</u>; Kung, C.-W.; Rimoldi, M.; Malliakas, C. D.; Palmer, R. H.; Farha, O. K.;
 Hupp, J. T. <a href = 'https://pubs.acs.org/doi/abs/10.1021/jacs.9b07658' target='_blank'>J. Am. Chem. Soc. 2019, 141, 17696–17702.</a>
-
-
-### PUBLICATIONS DURING UNDERGRADUATE PERIOD
 1. Desai, S. P.; Ye, J.; Zheng, J.; Ferrandon, M. S.; Webber, T. E.; Platero-Prats, A. E.; <u>**Duan, J.**</u>; GarciaHolley, P.; Camaioni, D. M.; Chapman, K. W.; Delferro, M.; Farha, O. K.; Fulton, J. L.; Gagliardi, L.;
 Lercher, J. A.; Penn, R. L.; Stein, A.; Lu, C. C. <a href='https://pubs.acs.org/doi/10.1021/jacs.8b08550' target="_blank">J. Am. Chem. Soc. 2018, 140, 15309–15318.</a>
 2. Malonzo, C. D.; Wang, Z.; <u>**Duan, J.**</u>; Zhao, W.; Webber, T. E.; Li, Z.; Kim, I. S.; Kumar, A.; Bhan, A.;
@@ -34,6 +34,7 @@ Buru, C. T; Li, Z.; Penn, R. L.; Farha, O. K.; Hupp, J. T.; Stein, A.; Lu, C. C.
 287–302.</a>
 
 # Presentations
+- 2021 - 239th ECS Meeting with the 18th International Meeting on Chemical Sensors (IMCS) <a href = "Jiaxin_Dawn_Duan_239th_ECS_poster.pdf" target="_blank">[Virtual Poster Presentation]</a> 
 - 2019 - Nanoporous Materials Genome Center (NMGC) All-Hands Meeting (Poster)
 - 2018 - American Chemical Society 255th National Meeting (Poster)
 
@@ -57,6 +58,7 @@ Buru, C. T; Li, Z.; Penn, R. L.; Farha, O. K.; Hupp, J. T.; Stein, A.; Lu, C. C.
 <img src="/images/Rigaku_Advanced_Crystallography_School_Exam-Jiaxin_Duan.jpg" alt="Rigaku School Certificate" style="width:400px;height:320px;">
 
 # Professional Involvements
+- 2021 - CHEX Workshop on Electrochemistry / Geochemistry / Energy Storage
 - 2020 - Bright Future for In Situ and Operando Structural Science Workshops - provided by <a href="https://www.aps.anl.gov/" target="_blank">The Advanced Photon Source - Argonne National Lab</a>
 - 2019 - Catalysis Club of Chicago Symposium
 - 2019 - Presider - the Great Lake Regional meeting
