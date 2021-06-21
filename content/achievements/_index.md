@@ -34,7 +34,7 @@ Buru, C. T; Li, Z.; Penn, R. L.; Farha, O. K.; Hupp, J. T.; Stein, A.; Lu, C. C.
 287–302.</a>
 
 # Presentations
-- 2021 - 239th ECS Meeting with the 18th International Meeting on Chemical Sensors (IMCS) <a href = "Jiaxin_Dawn_Duan_239th_ECS_poster.pdf" target="_blank">[Virtual Poster Presentation]</a> 
+- 2021 - 239th ECS Meeting with the 18th International Meeting on Chemical Sensors (IMCS)
 - 2019 - Nanoporous Materials Genome Center (NMGC) All-Hands Meeting (Poster)
 - 2018 - American Chemical Society 255th National Meeting (Poster)
 
