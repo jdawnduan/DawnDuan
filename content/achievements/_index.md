@@ -11,6 +11,7 @@ title:
 
 ### MANUSCRIPTS IN PREPERATION
 1. Liu, Q.; Chen, Z.; <u>**Duan, J.**</u>; Bi, W.; Lu, Z.; Schweitzer, N.; Alayoglu, S.; Goswami, S.; Chapman, K.; Hupp, J. *Submitted*
+2. Li, X.; Yu, J.; Lu, Z.; <u>**Duan, J.**</u>; Fry, H.; Gosztola, D.; Maindan, K.; Rajasree, S.; Deria, P. J. Am. Chem. Soc. *Submitted*
 
 
 ### PUBLISHED
@@ -51,7 +52,7 @@ Buru, C. T; Li, Z.; Penn, R. L.; Farha, O. K.; Hupp, J. T.; Stein, A.; Lu, C. C.
 
 # Professional Developments
 - [Admitted, 60 applicants selected across graduate students at North American] 23rd National School on Neutron and X-Ray Scattering (<a href = 'https://www.anl.gov/education/national-school-on-neutron-and-xray-scattering' target = '_blank'>NXS2021</a>)
-
+- 2021 - <a href = "https://www.telluridescience.org/schools/telluride-school-on-interfacial-chemistry-and-charge-transfer-for-energy-storage-and-conversion">Telluride School</a> on Fundamentals for Electrochemical Energy Conversion and Storage
 - 2021 - Rigaku School for Advanced Topics in Practical Crystallography (pass the test with honors) - provided by <a href = "https://www.rigaku.com/webinars/crystallography/advanced-topics" target="_blank">Rigaku School</a>
 - 2019 - Certificate of Completion: Advanced Impedance Spectroscopy - instructed by Mark Orazem, provided by <a href="https://www.electrochem.org/advanced-impedance-spectroscopy">The Electrochemical Society</a> at the 236th ECS Meeting
 

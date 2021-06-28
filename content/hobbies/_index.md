@@ -7,7 +7,7 @@ title:
 A bunch of projects I plan to work or have worked through whenever I don't want to do research...~~(In addition to binge watching YouTube)~~
 
 ### Skills practiced
-Vim, Python, Linux, C++, Hugo, Networking, Cloud Computing, Machining (Drilling and Milling), etc. 
+Vim, Python (Pandas, NLTK, Matplotlib, Numpy, etc.) , Linux, C++, Hugo, MarkDown, Networking, Cloud Computing, Machining (Drilling and Milling), etc. 
 
 ## Certificates I collected along the way
 - <a href = 'https://coursera.org/share/345c3743a1b66ecc3bd16db2614d57d8'>Introduction to Data Science in Python</a>
