@@ -12,7 +12,7 @@ title:
 ### MANUSCRIPTS IN PREPERATION
 1. Liu, Q.; Chen, Z.; <u>**Duan, J.**</u>; Bi, W.; Lu, Z.; Schweitzer, N.; Alayoglu, S.; Goswami, S.; Chapman, K.; Hupp, J. *In Revision*
 2. Li, X.; Yu, J.; Lu, Z.; <u>**Duan, J.**</u>; Fry, H.; Gosztola, D.; Maindan, K.; Rajasree, S.; Deria, P. J. Am. Chem. Soc. *Submitted*
-
+3. Wang, R.; Bukowski, B.; <u>**Duan, J.**</u>; Sui, J.; Snurr, R.; Hupp, J. _Chem. Mater._ *Submitted*
 
 ### PUBLISHED
 1. Lu, Z.; Wang, R.; Liao, Y.; Farha, O. K.; Bi, W.; Sheridan, T. R.; Zhang, K.; <u>**Duan, J.**</u>; Liu, J.; Hupp, J. T. <a href = 'https://pubs.rsc.org/en/content/articlelanding/2021/cc/d0cc07974j#!divAbstract' target='_blank'>Chem. Commun., 2021, 57, 3571-3574.</a>
