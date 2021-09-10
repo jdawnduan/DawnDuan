@@ -59,7 +59,6 @@ widget:
 
 
 ## Current Services:  
-- Web-manager: <a href = "https://sites.northwestern.edu/gisa/">**G-ISA** (Graduate International Student Association)</a>
 - Co-Presidents: <a href = "http://nuplu.weebly.com/">**Phi Lambda Upsilon** (Northwestern's Chemistry Honor Society)</a>
 - External Vice President: <a href = "https://sites.northwestern.edu/netg0/">**NETG** (Northwestern Energy and Technology Group)</a>
-- Volunteer tutor: <a href = "https://www.booksbreakfast.org/">**Books & Breakfast** (Tutor for middle schoolers)</a>
+- Web-manager and Event Facilitator: <a href = "https://sites.northwestern.edu/gisa/">**G-ISA** (Graduate International Student Association)</a>
