@@ -17,8 +17,8 @@ title:
 
 
 ### PUBLISHED
-1. Wang, R.; Bukowski, B.; <u>**Duan, J.**</u>; Sui, J.; Snurr, R.; Hupp, J. T. <a href = 'https://pubs.acs.org/doi/full/10.1021/acs.chemmater.1c01536' target='_blank'>_Chem. Mater._, **2021**, *xx*, xxx-xxx.</a>
-1. Li, X.; Yu, J.; Lu, Z.; <u>**Duan, J.**</u>; Fry, H.; Gosztola, D.; Maindan, K.; Rajasree, S.; Deria, P. _J. Am. Chem. Soc._ *Accepted*
+1. Wang, R.; Bukowski, B.; <u>**Duan, J.**</u>; Sui, J.; Snurr, R.; Hupp, J. T. <a href = 'https://pubs.acs.org/doi/full/10.1021/acs.chemmater.1c01536' target='_blank'>_Chem. Mater._, **2021**, *33*, 6832-6840.</a>
+1. Li, X.; Yu, J.; Lu, Z.; <u>**Duan, J.**</u>; Fry, H.; Gosztola, D.; Maindan, K.; Rajasree, S.; Deria, P. <a href = 'https://pubs.acs.org/doi/abs/10.1021/jacs.1c06629' target='_blank'>_J. Am. Chem. Soc., **2021**, *143*, 15286-15297.</a>
 9. Lu, Z.; Wang, R.; Liao, Y.; Farha, O. K.; Bi, W.; Sheridan, T. R.; Zhang, K.; <u>**Duan, J.**</u>; Liu, J.; Hupp, J. T. <a href = 'https://pubs.rsc.org/en/content/articlelanding/2021/cc/d0cc07974j#!divAbstract' target='_blank'>_Chem. Commun._, **2021**, *57*, 3571-3574.</a>
 8. Ray, D.; Goswami, S.; <u>**Duan, J.**</u>; Hupp, J. T.; Cramer, C.; Gagliardi, L. <a href = 'https://pubs.acs.org/doi/10.1021/acs.chemmater.0c03855' target='_blank'>_Chem. Mater._, **2021**, *33*, 1182–1189.</a>
 7. Nagatomi, H.; Gallington, L.; Goswami, S.; <u>**Duan, J.**</u>; Chapman, K.; Yanai, N.; Kimizuka, N.; Farha, O.
