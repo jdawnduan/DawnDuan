@@ -13,12 +13,12 @@ title:
 ### MANUSCRIPTS IN PREPERATION
 
 1. Liu, Q.; Chen, Z.; <u>**Duan, J.**</u>; Bi, W.; Lu, Z.; Schweitzer, N.; Alayoglu, S.; Goswami, S.; Chapman, K.; Hupp, J. T. *In Revision*
-2. Lu, Z.; <u>**Duan, J.**</u>; Du, L.; Liu, Q.; Hupp, J. T. _J. Am. Chem. Soc._ *Submitted*
+2. Lu, Z.; <u>**Duan, J.**</u>; Du, L.; Liu, Q.; Hupp, J. T. *In preperation*
 
 
 ### PUBLISHED
 1. Wang, R.; Bukowski, B.; <u>**Duan, J.**</u>; Sui, J.; Snurr, R.; Hupp, J. T. <a href = 'https://pubs.acs.org/doi/full/10.1021/acs.chemmater.1c01536' target='_blank'>_Chem. Mater._, **2021**, *33*, 6832-6840.</a>
-1. Li, X.; Yu, J.; Lu, Z.; <u>**Duan, J.**</u>; Fry, H.; Gosztola, D.; Maindan, K.; Rajasree, S.; Deria, P. <a href = 'https://pubs.acs.org/doi/abs/10.1021/jacs.1c06629' target='_blank'>_J. Am. Chem. Soc., **2021**, *143*, 15286-15297.</a>
+1. Li, X.; Yu, J.; Lu, Z.; <u>**Duan, J.**</u>; Fry, H.; Gosztola, D.; Maindan, K.; Rajasree, S.; Deria, P. <a href = 'https://pubs.acs.org/doi/abs/10.1021/jacs.1c06629' target='_blank'>_J. Am. Chem. Soc._, **2021**, *143*, 15286-15297.</a>
 9. Lu, Z.; Wang, R.; Liao, Y.; Farha, O. K.; Bi, W.; Sheridan, T. R.; Zhang, K.; <u>**Duan, J.**</u>; Liu, J.; Hupp, J. T. <a href = 'https://pubs.rsc.org/en/content/articlelanding/2021/cc/d0cc07974j#!divAbstract' target='_blank'>_Chem. Commun._, **2021**, *57*, 3571-3574.</a>
 8. Ray, D.; Goswami, S.; <u>**Duan, J.**</u>; Hupp, J. T.; Cramer, C.; Gagliardi, L. <a href = 'https://pubs.acs.org/doi/10.1021/acs.chemmater.0c03855' target='_blank'>_Chem. Mater._, **2021**, *33*, 1182–1189.</a>
 7. Nagatomi, H.; Gallington, L.; Goswami, S.; <u>**Duan, J.**</u>; Chapman, K.; Yanai, N.; Kimizuka, N.; Farha, O.
@@ -55,6 +55,7 @@ Buru, C. T; Li, Z.; Penn, R. L.; Farha, O. K.; Hupp, J. T.; Stein, A.; Lu, C. C.
 
 
 # Professional Developments
+- 2021 - <a href = 'https://conference.sns.gov/event/301/' target = '_blank'>4th Total Scattering School</a> (PDFGui, RMCProfile, DISCUS)
 - 2021 - 23rd National School on Neutron and X-Ray Scattering (<a href = 'https://www.anl.gov/education/national-school-on-neutron-and-xray-scattering' target = '_blank'>NXS2021</a>)
 - 2021 - <a href = "https://www.telluridescience.org/schools/telluride-school-on-interfacial-chemistry-and-charge-transfer-for-energy-storage-and-conversion">Telluride School</a> on Fundamentals for Electrochemical Energy Conversion and Storage
 - 2021 - Rigaku School for Advanced Topics in Practical Crystallography (pass the test with honors) - provided by <a href = "https://www.rigaku.com/webinars/crystallography/advanced-topics" target="_blank">Rigaku School</a>
