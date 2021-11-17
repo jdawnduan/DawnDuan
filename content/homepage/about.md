@@ -20,7 +20,7 @@ social:
     url: https://twitter.com/Dawn_JDuan
   - icon: user-graduate
     icon_pack: fa
-    url: https://scholar.google.com/citations?user=8LcBMLQAAAAJ&hl=en
+    url: https://scholar.google.com/citations?user=QNoXyicAAAAJ&hl=en&oi=ao
   - icon: github
     icon_pack: fab
     url: https://github.com/jdawnduan
