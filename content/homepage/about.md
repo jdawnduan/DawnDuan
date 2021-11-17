@@ -57,8 +57,8 @@ widget:
 
 ## Contact Information - <a href = "Jiaxin_Duan_NU_HuppGroup_CV.pdf" target="_blank">**CV**</a> (updated 20210304)
 **School E-mail**: dawnduan@u.northwestern.edu
-**Address**: 2190 Campus Drive, Ryan Hall, Evanston, IL, 60208
 **Permanent E-mail**: j.dawnduan@gmail.com
+**Address**: 2190 Campus Drive, Ryan Hall, Evanston, IL, 60208
 
 ## Current Services:  
 - Co-Presidents: <a href = "http://nuplu.weebly.com/">**Phi Lambda Upsilon** (Northwestern's Chemistry Honor Society)</a>
