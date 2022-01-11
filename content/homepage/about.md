@@ -20,7 +20,7 @@ social:
     url: https://twitter.com/Dawn_JDuan
   - icon: user-graduate
     icon_pack: fa
-    url: https://scholar.google.com/citations?user=8LcBMLQAAAAJ&hl=en
+    url: https://scholar.google.com/citations?user=QNoXyicAAAAJ&hl=en&oi=ao
   - icon: github
     icon_pack: fab
     url: https://github.com/jdawnduan
@@ -56,10 +56,11 @@ widget:
 ---
 
 ## Contact Information - <a href = "Jiaxin_Duan_NU_HuppGroup_CV.pdf" target="_blank">**CV**</a> (updated 20210304)
-**E-mail**: j.dawnduan@gmail.com
+**School E-mail**: dawnduan@u.northwestern.edu
 
-**Address**: 2145 Sheridan Rd., Evanston, IL, 60208
+**Permanent E-mail**: j.dawnduan@gmail.com
 
+**Address**: 2190 Campus Drive, Ryan Hall, Evanston, IL, 60208
 
 ## Current Services:  
 - Co-Presidents: <a href = "http://nuplu.weebly.com/">**Phi Lambda Upsilon** (Northwestern's Chemistry Honor Society)</a>
