@@ -21,6 +21,7 @@ table, th, td {
 ### Northwestern University (Graduate School)
 Quarters|Course Code|Course Description
 :--|:--|:--
+2022 Winter|CHEM 435/445|Advanced Physical and Analytical Chemistry (*Energy related topics*)
 2021 Spring|CHEM 210/230|Organic Chemistry Laboratory
 2021 Winter|CHEM 435/445|Advanced Physical and Analytical Chemistry (*Energy related topics*)
 2020 Fall|CHEM 151|Accelerated General Chemistry
