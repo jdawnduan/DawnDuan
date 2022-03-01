@@ -1,7 +1,7 @@
 ---
 title: "Amtrak - California Zephyr 横跨美国的火车，途径最美的风景"
 date: 2022-01-11T16:44:52-06:00
-draft: false
+draft: true
 ---
 
 Califronia Zephyr全线[途径](https://www.amtrak.com/routes/california-zephyr-train.html)Chicago - Omaha - Denver - Salt Lake City - Emeryville (San Francisco)，其中每个间隔还有无数站点。最出色的一段非落基山脉莫属了。自火车从东向西驶过Denver后便开始向上攀行进入洛基山脉，期间风景自平原至隧道、峡谷、山脉、河流等不断变化，四季都各有特色。
