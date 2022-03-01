@@ -11,6 +11,8 @@ title:
 # Publications
 
 ### PUBLISHED
+1. (Co-first author) Lu, Z.; <u>**Duan, J.**</u>; Du, L.; Liu, Q.; Schweitzer, N.; Hupp, J. T. Incorporation of Free Halide Ions Stabilizes Metal–Organic Frameworks (MOFs) Against Pore Collapse and Renders Large-pore Zr-MOFs Functional for Water Harvesting. <a href = '' target='_blank'>_J. Mater. Chem. A_, **2022**, *xx*, xxxx-xxxx.</a> _Accepted_
+1. <u>**Duan, J.**</u>; Goswami, S.; Patwardhan, S.; Hupp, J. T. Does the Mode of MOF/Electrode Adhesion Determine Rates for Redox-hopping-based Charge-Transport within Thin-film Metal–Organic Frameworks?  <a href = 'https://doi.org/10.1021/acs.jpcc.1c09812' target='_blank'>_J. Phys. Chem. C_, **2022**, *xx*, xxxx-xxxx.</a>
 1. <u>**Duan, J.**</u>; Goswami, S.; Hupp, J. T. Redox-hopping Based Charge Transport Mediated by Ru(II)-Polypyridyl Species Immobilized in a Mesoporous Metal-organic Framework. <a href = 'https://www.frontiersin.org/articles/10.3389/fceng.2021.828266/full' target='_blank'>_Front. chem. eng._, **2022**, *xx*, xxxx-xxxx.</a>
 1. Wang, R.; Bukowski, B.; <u>**Duan, J.**</u>; Sui, J.; Snurr, R.; Hupp, J. T. Art of Architecture: Efficient Transport through Solvent-Filled Metal–Organic Frameworks Regulated by Topology. <a href = 'https://pubs.acs.org/doi/full/10.1021/acs.chemmater.1c01536' target='_blank'>_Chem. Mater._, **2021**, *33*, 6832-6840.</a>
 2. Li, X.; Yu, J.; Lu, Z.; <u>**Duan, J.**</u>; Fry, H.; Gosztola, D.; Maindan, K.; Rajasree, S.; Deria, P. Photoinduced Charge Transfer with a Small Driving Force Facilitated by Exciplex-like Complex Formation in Metal–Organic Frameworks. <a href = 'https://pubs.acs.org/doi/abs/10.1021/jacs.1c06629' target='_blank'>_J. Am. Chem. Soc._, **2021**, *143*, 15286-15297.</a>
@@ -25,9 +27,8 @@ title:
 11. Desai, S. P.; Malonzo, C. D.; Webber, T. E.; <u>**Duan, J.**</u>; Thompson, A. B.; Tereniak, S. J.; DeStefano, M. R.; Buru, C. T; Li, Z.; Penn, R. L.; Farha, O. K.; Hupp, J. T.; Stein, A.; Lu, C. C. Assembly of dicobalt and cobalt–aluminum oxide clusters on metal–organic framework and nanocast silica supports. <a href = "https://pubs.rsc.org/en/content/articlehtml/2017/fd/c7fd00055c" target="_blank">_Farad. Discuss._, **2017**, *201*, 287–302.</a>
 
 ### MANUSCRIPTS IN PREPERATION
-1. <u>**Duan, J.**</u>, Goswami, S., Patwardhan, S.; Hupp, J. T. _Submitted to J. Phys. Chem. C_ **2022**, *In Revision*
 1. Liu, Q.; Chen, Z.; <u>**Duan, J.**</u>; Bi, W.; Lu, Z.; Schweitzer, N.; Alayoglu, S.; Goswami, S.; Chapman, K.; Hupp, J. T. *In preperation*
-2. Lu, Z.; <u>**Duan, J.**</u>; Du, L.; Liu, Q.; Hupp, J. T. *In preperation*
+
 
 # Presentations
 - 2021 - 239th ECS Meeting with the 18th International Meeting on Chemical Sensors (IMCS)

@@ -55,7 +55,7 @@ widget:
     attachment:
 ---
 
-## Contact Information - <a href = "Jiaxin_Duan_NU_HuppGroup_CV.pdf" target="_blank">**CV**</a> (updated 20210304)
+## Contact Information - <a href = "Jiaxin_Duan_NU_HuppGroup_CV.pdf" target="_blank">**CV**</a> (updated 20220301)
 **School E-mail**: dawnduan@u.northwestern.edu
 
 **Permanent E-mail**: j.dawnduan@gmail.com
