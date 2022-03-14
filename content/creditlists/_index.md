@@ -28,6 +28,7 @@ Like if I want to cross the desert, I need **WATER & food** for sure, but I also
 - **Yali Zhang** : awesome roommate I had and being very supportive. Thank yali for many conversations over studies and life.
 - **Yukun Cheng** : wonderful classmates and friend, helping me understand organometallic subjects
 - **Jon Schltz** : excellent lab-mate in our inorganic lab, great friend from undergraduate to graduate study, helped me process my statements during graduate school application and also helped me review my documents for other applications in grad school. (A short paragraph or a long list is in queue)
+- **Richard McClellan**
 
 ## Graduate School Stage
 ### Things are changing so quickly so this list will be constantly updating and modifying
@@ -50,3 +51,7 @@ Like if I want to cross the desert, I need **WATER & food** for sure, but I also
 - **Shaanti Mary** : great friend during the summer 2018
 - **Abby (Noel) Rosenzweig** helped me transition in the group, filed paper works, obtained necessary materials to start a new life in Evanston and Ryan Hall, also, introduced 2 cute cats to me as wonderful accompany during holidays
 - **Dr. Elsa Alvaro** : provided useful tools in literature searching
+- **Dr. Christos D. Malliakas** : Diffraction knowledge and invaluable instrumental help and data processing techniques
+- **Charlotte Stern** : Crystallography education and training with countless insightful discussion
+- **Tirzah Abbott** : Scanning electron miscroscopy training and useful discussion in multiple sample processing and EM analysis techniques
+- **Dr. Xiaobing Hu** : Transmission electron miscroscopy training and countless help during sessions
