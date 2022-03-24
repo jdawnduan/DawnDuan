@@ -67,5 +67,9 @@ Semesters|Course Code|Course Description
 
 - Dawn is very laid back and reserved, good at her job and very knowledgeable about what was to be done.
 
+- She was able to help me with all the homework sets and is very patient with explaining concepts that were brushed over during class.
+
+- The TA for the course was well organized and clearly communicated everything to students.
+
 </body>
 </html>
