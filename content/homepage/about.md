@@ -3,7 +3,7 @@ title: J. Dawn Duan
 draft: false
 role: 4th Year Graduate Student (Ph. D. Candidate)
 avatar: jdawnduan_avatar.jpg
-bio: A chemist that doesn't know how to program is not a good cook. My research interests include electrochemical properties of materials, measurement techniques including electron microscop, crystallogrphy, diffraction and scattering. I believe automation in labs can promote creative thinking in a research group. <a href = 'https://www.facebook.com/Gudetama' target = '_blank'>Gudetama</a> spirit resides in me.
+bio: A chemist that doesn't know how to program while thinking about boxing is not a good cook. My research interests include electrochemical properties of materials, measurement techniques including electron microscopy, crystallogrphy, diffraction and scattering. I believe automation in labs can promote creative thinking in a research group. <a href = 'https://www.facebook.com/Gudetama' target = '_blank'>Gudetama</a> spirit resides in me.
 
 
 

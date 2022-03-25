@@ -1,8 +1,8 @@
 ---
 title: J. Dawn Duan
-role: 3rd Year Graduate Student (Ph. D. Candidate)
+role: 4th Year Graduate Student (Ph. D. Candidate)
 avatar: jdawnduan_avatar.jpg
-bio: 3rd Year Graduate Student (Ph. D. Candidate)
+bio: 4th Year Graduate Student (Ph. D. Candidate)
 organization:
   name: Northwestern University - Hupp Group
   url: https://sites.northwestern.edu/huppgroup/group/
