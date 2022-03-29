@@ -28,7 +28,7 @@ Like if I want to cross the desert, I need **WATER & food** for sure, but I also
 - **Yali Zhang** : awesome roommate I had and being very supportive. Thank yali for many conversations over studies and life.
 - **Yukun Cheng** : wonderful classmates and friend, helping me understand organometallic subjects
 - **Jon Schltz** : excellent lab-mate in our inorganic lab, great friend from undergraduate to graduate study, helped me process my statements during graduate school application and also helped me review my documents for other applications in grad school. (A short paragraph or a long list is in queue)
-- **Richard McClellan**
+- **Richard McClellan** : Great friend and mentor
 
 ## Graduate School Stage
 ### Things are changing so quickly so this list will be constantly updating and modifying
@@ -55,4 +55,5 @@ Like if I want to cross the desert, I need **WATER & food** for sure, but I also
 - **Charlotte Stern** : Crystallography education and training with countless insightful discussion
 - **Tirzah Abbott** : Scanning electron miscroscopy training and useful discussion in multiple sample processing and EM analysis techniques
 - **Dr. Xiaobing Hu** : Transmission electron miscroscopy training and countless help during sessions
+- **Kate Eidem** : Inspiring friend, had and will have many great conversations
 - **Tae Hwang** : Boxing coach
