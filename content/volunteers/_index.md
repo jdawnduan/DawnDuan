@@ -2,6 +2,8 @@
 title:
 ---
 # Outreach
+- Expand Your Horizen (EYH) - 2022
+  - Technical support on Zoom, ensuring people are in the correct room and resolve any technical issues
 - Science In The Classroom (SITC) In Person Workshops - 2021-2022
 - Science In The Classroom (SITC) IMSERC Tour Video - 2021
 - District 65 Books & Breakfast - 2020 - 2021
@@ -18,7 +20,7 @@ title:
   - Activity leader facilitating various demo experimetns and intereact with young children to learn different scientific concepts including biology, chemistry, engineering, physics, and so on.
 
 # Participated Studies
-
+- Kellogg Behavior Study - Pricing strategy
 - Neuroscience Study - Visual differece between the left and the right eye
 - Neuroscience Study - Nap
 - Neuroscience Study - Sleep

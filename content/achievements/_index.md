@@ -31,11 +31,12 @@ title:
 
 
 # Presentations
-- 2021 - 239th ECS Meeting with the 18th International Meeting on Chemical Sensors (IMCS)
+- 2022 - Gender Equity in Academic Research Symposium 2022 (Oral)
+- 2021 - 239th ECS Meeting with the 18th International Meeting on Chemical Sensors (Poster, Recording)
 - 2019 - Nanoporous Materials Genome Center (NMGC) All-Hands Meeting (Poster)
 - 2018 - American Chemical Society 255th National Meeting (Poster)
 
-# Honors & Rewards
+# Honors & Awards
 - 2018 - Dean’s List, University of Minnesota (All semesters during Undergraduate)
 - 2018 - Travel grant for American Chemical Society 255th National Meeting
 - 2017 - Dr. Paul F. and Patricia Guehler Chemistry Scholarship
@@ -47,6 +48,7 @@ title:
 
 
 # Professional Developments
+- 2022 - Management for Scientists and Engineers (provided by Kellogg School of Management)
 - 2021 - <a href = 'https://conference.sns.gov/event/301/' target = '_blank'>4th Total Scattering School</a> (PDFGui, RMCProfile, DISCUS)
 - 2021 - 23rd National School on Neutron and X-Ray Scattering (<a href = 'https://www.anl.gov/education/national-school-on-neutron-and-xray-scattering' target = '_blank'>NXS2021</a>)
 - 2021 - <a href = "https://www.telluridescience.org/schools/telluride-school-on-interfacial-chemistry-and-charge-transfer-for-energy-storage-and-conversion">Telluride School</a> on Fundamentals for Electrochemical Energy Conversion and Storage
