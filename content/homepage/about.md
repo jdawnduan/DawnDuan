@@ -55,7 +55,7 @@ widget:
     attachment:
 ---
 
-## Contact Information - <a href = "Jiaxin_Duan_NU_HuppGroup_CV.pdf" target="_blank">**CV**</a> (updated 20220301)
+## Contact Information - <a href = "Jiaxin_Duan_NU_HuppGroup_CV.pdf" target="_blank">**CV**</a> (updated 20220630)
 **School E-mail**: dawnduan@u.northwestern.edu
 
 **Permanent E-mail**: j.dawnduan@gmail.com
@@ -64,5 +64,7 @@ widget:
 
 ## Current Services:  
 - Co-Presidents: <a href = "http://nuplu.weebly.com/">**Phi Lambda Upsilon** (Northwestern's Chemistry Honor Society)</a>
-- External Vice President: <a href = "https://sites.northwestern.edu/netg0/">**NETG** (Northwestern Energy and Technology Group)</a>
-- Web-manager and Event Facilitator: <a href = "https://sites.northwestern.edu/gisa/">**G-ISA** (Graduate International Student Association)</a>
+- Librarian: <a href = "https://nubond.weebly.com/">**NUBonD** (Northwestern University Building on Diversity)</a>
+- Secretary: <a href = "https://sites.northwestern.edu/netg0/">**CTC** (Climate Technology Club (formerly known as NETG))</a>
+- Web-manager: <a href = "https://sites.northwestern.edu/gisa/">**G-ISA** (Graduate International Student Association)</a>
+- Individual Membership Committee (Student Member): <a href = "https://www.electrochem.org/committees">**ECS** (The Electrochemical Society)</a>

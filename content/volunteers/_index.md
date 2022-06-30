@@ -2,6 +2,8 @@
 title:
 ---
 # Outreach
+- STEM outreach at the Bloc - 2022
+  - Teaching middle schoolers how to make robots and potentially develop future modules 
 - Expand Your Horizen (EYH) - 2022
   - Technical support on Zoom, ensuring people are in the correct room and resolve any technical issues
 - Science In The Classroom (SITC) In Person Workshops - 2021-2022
